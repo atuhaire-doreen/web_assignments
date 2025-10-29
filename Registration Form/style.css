@@ -1,1 +1,6 @@
-
+fieldset {
+    width: 300px;
+    margin: auto;
+    background-color: lightblue;
+    padding: 7%;
+}
